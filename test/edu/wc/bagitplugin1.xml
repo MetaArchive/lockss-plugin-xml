@@ -55,7 +55,7 @@
   </entry>
   <entry>
     <string>plugin_identifier</string>
-    <string>edu.calp.bagitplugin1</string>
+    <string>edu.wc.bagitplugin1</string>
   </entry>
   <entry>
     <string>au_crawlrules</string>
