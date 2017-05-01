@@ -63,7 +63,7 @@
   </entry>
   <entry>
     <string>plugin_identifier</string>
-    <string>edu.calp.bagitplugin2</string>
+    <string>edu.wc.bagitplugin2</string>
   </entry>
   <entry>
     <string>au_crawlrules</string>
