@@ -63,7 +63,7 @@
   </entry>
   <entry>
     <string>plugin_identifier</string>
-    <string>edu.oregonstate.metaarchive.bagitplugin2</string>
+    <string>edu.oregonstate.bagitplugin2</string>
   </entry>
   <entry>
     <string>au_crawlrules</string>
