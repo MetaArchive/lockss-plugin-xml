@@ -1,3 +1,4 @@
+
 <map>
   <entry>
     <string>plugin_config_props</string>
@@ -27,7 +28,7 @@
   </entry>
   <entry>
     <string>au_name</string>
-    <string>&quot;Bag reachable from BaseUrl/%s&quot;, start</string>
+    <string>&quot;All reachable from BaseUrl/%s&quot;, start</string>
   </entry>
   <entry>
     <string>au_start_url</string>
@@ -35,7 +36,7 @@
   </entry>
  <entry>
     <string>au_manifest</string>
-    <string>1,&quot;%s/manifest.html&quot;, base_url</string>
+    <string>1,&quot;%s/mabagitmanifest.html&quot;, base_url</string>
   </entry>
   <entry>
     <string>au_crawl_depth</string>
@@ -51,17 +52,17 @@
   </entry>
   <entry>
     <string>plugin_name</string>
-    <string>Gardner bag crawl for BaseUrl/Start</string>
+    <string>Gardner S3 Plugin</string>
   </entry>
   <entry>
     <string>plugin_identifier</string>
-    <string>org.gardner.bagitplugin</string>
+    <string>org.gardner.s3plugin</string>
   </entry>
   <entry>
     <string>au_crawlrules</string>
     <list>
       <string>4,&quot;^%s&quot;, base_url</string>
-      <string>1,&quot;%s/manifest.html&quot;, base_url</string>
+      <string>1,&quot;%s/mabagitmanifest.html&quot;, base_url</string>
       <string>2,&quot;/\?&quot;</string>
       <string>1,&quot;^%s/%s$&quot;, base_url, start</string>
       <string>1,&quot;^%s/%s/&quot;, base_url, start</string>

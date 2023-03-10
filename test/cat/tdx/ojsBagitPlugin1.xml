@@ -23,11 +23,11 @@
   </entry>
   <entry>
     <string>plugin_version</string>
-    <string>2</string>
+    <string>1</string>
   </entry>
   <entry>
     <string>au_name</string>
-    <string>&quot;Bag reachable from BaseUrl/%s&quot;, start</string>
+    <string>&quot;CSUC_OJS_Bag reachable from BaseUrl/%s&quot;, start</string>
   </entry>
   <entry>
     <string>au_start_url</string>
@@ -50,12 +50,12 @@
     <long>6000</long>
   </entry>
   <entry>
-    <string>plugin_name</string>
-    <string>Gardner bag crawl for BaseUrl/Start</string>
+<string>plugin_name</string>
+    <string>cat: CBUC OJS Plugin</string>
   </entry>
   <entry>
     <string>plugin_identifier</string>
-    <string>org.gardner.bagitplugin</string>
+    <string>cat.tdx.ojsBagitPlugin1</string>
   </entry>
   <entry>
     <string>au_crawlrules</string>

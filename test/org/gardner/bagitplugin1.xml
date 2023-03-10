@@ -23,7 +23,7 @@
   </entry>
   <entry>
     <string>plugin_version</string>
-    <string>2</string>
+    <string>5</string>
   </entry>
   <entry>
     <string>au_name</string>
@@ -64,7 +64,7 @@
       <string>1,&quot;%s/manifest.html&quot;, base_url</string>
       <string>2,&quot;/\?&quot;</string>
       <string>1,&quot;^%s/%s$&quot;, base_url, start</string>
-      <string>1,&quot;^%s/%s/&quot;, base_url, start</string>
+      <string>2,&quot;^%s/%s/&quot;, base_url, start</string>
     </list>
   </entry>
 </map>

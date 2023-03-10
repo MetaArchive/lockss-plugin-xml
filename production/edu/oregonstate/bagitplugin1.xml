@@ -23,11 +23,11 @@
   </entry>
   <entry>
     <string>plugin_version</string>
-    <string>2</string>
+    <string>1</string>
   </entry>
   <entry>
     <string>au_name</string>
-    <string>&quot;TDX_OJS_Bag reachable from BaseUrl/%s&quot;, start</string>
+    <string>&quot;Bag reachable from BaseUrl/%s&quot;, start</string>
   </entry>
   <entry>
     <string>au_start_url</string>
@@ -35,7 +35,7 @@
   </entry>
  <entry>
     <string>au_manifest</string>
-    <string>1,&quot;%s/manifest.html&quot;, base_url</string>
+    <string>1,&quot;%s/mabagitmanifest.html&quot;, base_url</string>
   </entry>
   <entry>
     <string>au_crawl_depth</string>
@@ -50,12 +50,12 @@
     <long>6000</long>
   </entry>
   <entry>
-<string>plugin_name</string>
-    <string>cat: CBUC OJS Plugin</string>
+    <string>plugin_name</string>
+    <string>MA bag crawl for BaseUrl/Start</string>
   </entry>
   <entry>
     <string>plugin_identifier</string>
-    <string>cat.tdx.ojsBagitPlugin</string>
+    <string>edu.oregonstate.bagitplugin1</string>
   </entry>
   <entry>
     <string>au_crawlrules</string>
